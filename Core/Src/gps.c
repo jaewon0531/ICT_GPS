@@ -1,16 +1,4 @@
 /*
- * gps.c
- *
- *  Created on: Nov 15, 2019
- *      Author: Bulanov Konstantin
- *
- *  Contact information
- *  -------------------
- *
- * e-mail   :  leech001@gmail.com
- */
-
-/*
  * |---------------------------------------------------------------------------------
  * | Copyright (C) Bulanov Konstantin,2019
  * |
