@@ -112,10 +112,8 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-
 	  HAL_Delay(1000);
 	  printf("%.f,%f,%f\r\n", GPS.utc_time, GPS.dec_latitude, GPS.dec_longitude);
-
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
